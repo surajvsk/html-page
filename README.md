@@ -46,7 +46,7 @@ Open the saved .html file in your web browser.
 You should see the content displayed according to the HTML structure.
 Key Elements and Concepts:
 
-Headings: Use <h1>, <h2>, <h3>, etc., to define headings of different levels.
+Headings: Use to define headings of different levels.
 Paragraphs: Use <p> to create paragraphs of text.
 Lists: Use <ul> for unordered lists (bulleted) and <ol> for ordered lists (numbered).
 Links: Use <a> to create hyperlinks to other web pages or resources.
